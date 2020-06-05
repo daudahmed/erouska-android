@@ -1,58 +1,96 @@
 {
   "project_info": {
-    "project_number": "1077972356575",
-    "firebase_url": "https://covid19cz.firebaseio.com",
-    "project_id": "covid19cz",
-    "storage_bucket": "covid19cz.appspot.com"
+    "project_number": "244632412845",
+    "firebase_url": "https://mywebsite-5ae9e.firebaseio.com",
+    "project_id": "mywebsite-5ae9e",
+    "storage_bucket": "mywebsite-5ae9e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1077972356575:android:75624eb96818aa0d61886a",
+        "mobilesdk_app_id": "1:244632412845:android:b1f291b46fac0eb1569c24",
         "android_client_info": {
-          "package_name": "cz.covid19cz.erouska.dev"
+          "package_name": "cz.covid19cz.erouska.pk"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1077972356575-tv76pkt5ru2rmp8but5pgu236ci7ibib.apps.googleusercontent.com",
+          "client_id": "244632412845-7cssruo406tg0fjcnuacvo6qqpboq4is.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "cz.covid19cz.erouska.dev",
-            "certificate_hash": "ef76fa2a3481eccda91db9777d375d91456898d2"
+            "package_name": "cz.covid19cz.erouska.pk",
+            "certificate_hash": "e1a0d75d10557e42f92e7fc7dc112bbedf03ebf7"
           }
         },
         {
-          "client_id": "1077972356575-82vbqk1695t6r0otea6cd40f724ojeq6.apps.googleusercontent.com",
+          "client_id": "244632412845-3g0m7gjlckmh49lbto7k15ugdi0i8rlj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "cz.covid19cz.erouska.dev",
+            "package_name": "cz.covid19cz.erouska.pk",
             "certificate_hash": "fc5858910faaf9e981cba216e0180a92655f6db7"
           }
         },
         {
-          "client_id": "1077972356575-nve2hj66uvfgl9rdh82km7pfbukcrqlk.apps.googleusercontent.com",
+          "client_id": "244632412845-jq58il1fn7hgm4c3rvse25jmp8fufvaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.covid19cz.erouska.pk",
+            "certificate_hash": "d195005b198129207ec7d8c849d68a1befc7db61"
+          }
+        },
+        {
+          "client_id": "244632412845-96ivod028614qcrkn285jbedmp2s17ag.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBUNnAspRNCStweMD-eBVUoTM9kk0nALF8"
+          "current_key": "AIzaSyACNQIBh9aPbTIX1aTldQKgztEVx-sAmLs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1077972356575-nve2hj66uvfgl9rdh82km7pfbukcrqlk.apps.googleusercontent.com",
+              "client_id": "244632412845-96ivod028614qcrkn285jbedmp2s17ag.apps.googleusercontent.com",
               "client_type": 3
-            },
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244632412845:android:3caf5667ee24ac67569c24",
+        "android_client_info": {
+          "package_name": "pk.covid19pk.tracep.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244632412845-gierhmkh9r941t8cpm3amui43k2oa1mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pk.covid19pk.tracep.dev",
+            "certificate_hash": "d195005b198129207ec7d8c849d68a1befc7db61"
+          }
+        },
+        {
+          "client_id": "244632412845-96ivod028614qcrkn285jbedmp2s17ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNQIBh9aPbTIX1aTldQKgztEVx-sAmLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
             {
-              "client_id": "1077972356575-rflvasannh2k4hh3475994j1dhk99qkh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.covid19cz.BT-Tracking6"
-              }
+              "client_id": "244632412845-96ivod028614qcrkn285jbedmp2s17ag.apps.googleusercontent.com",
+              "client_type": 3
             }
           ]
         }
